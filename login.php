@@ -1,5 +1,5 @@
 <?php
-require_once "configuration/config.php";
+require_once "zo10a01n/zo1z0aa0501n.php";
 
 // Start the session
 session_start();
