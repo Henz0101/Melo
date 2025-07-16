@@ -1,5 +1,5 @@
 <?php
-require_once("configuration/config.php");
+require_once("zo10a01n/zo1z0aa0501n.php");
 session_start(); // Start the session
 
 // Redirect to login if the user isn't logged in
