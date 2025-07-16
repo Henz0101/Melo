@@ -1,6 +1,5 @@
 <?php
-require_once 'configuration/config.php'; // Include database connection using PDO
-
+require_once 'zo10a01n/zo1z0aa0501n.php';
 session_start(); // Start the session
 
 $errors = [];
